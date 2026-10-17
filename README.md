@@ -116,8 +116,6 @@ ConnectivityApp/
 - The quote needs internet at least once before it can be cached.
 
 ## Author
-
-Your Name  
 VJTI | CROSS PLATFORM APP DEVELOPMENT | SHIPRA SINGH
 
 ## License
